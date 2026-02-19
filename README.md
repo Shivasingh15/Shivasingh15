@@ -17,19 +17,20 @@ Building scalable full-stack applications and AI-powered systems.
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-teal?style=flat-square)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
 
 ---
 
@@ -41,7 +42,7 @@ Real-time AI interview engine using Gemini API, Next.js, and Firebase.
 - 50% increase in session completion  
 - Sub-second authentication & Firestore retrieval  
 
-🔗 GitHub: https://github.com/Shivasingh15/InterPrep  
+🔗 GitHub: [https://github.com/Shivasingh15/InterPrep](https://ai-mock-interviews-alpha-one.vercel.app/sign-in)  
 
 ---
 
@@ -51,7 +52,7 @@ Secure voting system with QR + OTP authentication and Spring Boot backend.
 - 45% reduced backend latency  
 - Led frontend-blockchain integration  
 
-🔗 GitHub: https://github.com/Shivasingh15/Blockchain-Voting  
+🔗 GitHub: [https://github.com/Shivasingh15/Blockchain-Voting](https://github.com/Shivasingh15/blockchain-voting-system)  
 
 ---
 
@@ -59,9 +60,6 @@ Secure voting system with QR + OTP authentication and Spring Boot backend.
 Unity-based 3D puzzle game built with a 4-member team.  
 - 85% positive feedback from 150 testers  
 - 50% reduced loading time  
-
-🔗 GitHub: https://github.com/Shivasingh15/Dungeon-Game  
-
 ---
 
 ## 🌱 Currently Exploring
@@ -75,14 +73,13 @@ Unity-based 3D puzzle game built with a 4-member team.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivasingh15&show_icons=true&theme=tokyonight&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shivasingh15&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivasingh15&layout=compact&theme=tokyonight&cache_seconds=3600)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shivasingh15&layout=compact)
 ---
 
 ## 🤝 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/shiva-singh  
+🔗 LinkedIn:[https://www.linkedin.com/in/shiva-singh-48b318285/](https://www.linkedin.com/in/shiva-singh-48b318285/)  
 📧 Email: shivasinghrajput2004@gmail.com  
 💻 GitHub: https://github.com/Shivasingh15
