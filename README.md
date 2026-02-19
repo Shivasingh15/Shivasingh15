@@ -18,6 +18,8 @@ Building scalable full-stack applications and AI-powered systems.
 ## 🛠 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
@@ -82,4 +84,3 @@ Unity-based 3D puzzle game built with a 4-member team.
 
 🔗 LinkedIn:[https://www.linkedin.com/in/shiva-singh-48b318285/](https://www.linkedin.com/in/shiva-singh-48b318285/)  
 📧 Email: shivasinghrajput2004@gmail.com  
-💻 GitHub: https://github.com/Shivasingh15
