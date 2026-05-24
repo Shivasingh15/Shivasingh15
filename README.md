@@ -7,7 +7,8 @@ Building scalable full-stack applications and AI-powered systems.
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student at VIT Bhopal (CGPA: 8.4)  
+- 🎓 B.Tech CSE student at VIT Bhopal (CGPA: 8.4) 
+- 🤖 Game Developer (Unity, C#, Blender)
 - 💻 Full-Stack Developer (React, Next.js, TypeScript, Firebase, Spring Boot)  
 - 🤖 Built real-time AI interview platform using Google Gemini API  
 - ⚡ Focused on performance optimization and scalable backend systems  
@@ -19,9 +20,9 @@ Building scalable full-stack applications and AI-powered systems.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring)
@@ -32,7 +33,6 @@ Building scalable full-stack applications and AI-powered systems.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
 
 ---
 
