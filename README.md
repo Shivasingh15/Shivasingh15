@@ -2,7 +2,7 @@
 
 Building scalable full-stack applications and AI-powered systems.
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Integrated+System+Builder;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Real-Time+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Game+Developer;AI+Integrated+System+Builder;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Real-Time+Applications" />
 
 
 ## 👨‍💻 About Me
